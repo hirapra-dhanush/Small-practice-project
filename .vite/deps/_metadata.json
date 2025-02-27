@@ -1,0 +1,49 @@
+{
+  "hash": "1d9b3be5",
+  "configHash": "53e87103",
+  "lockfileHash": "490fc956",
+  "browserHash": "0bfd7518",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "15f7b137",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ef8a4315",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "567a61cb",
+      "needsInterop": false
+    },
+    "react-icons/wi": {
+      "src": "../../node_modules/react-icons/wi/index.mjs",
+      "file": "react-icons_wi.js",
+      "fileHash": "8d5308c8",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "e5060923",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ECDLP2BU": {
+      "file": "chunk-ECDLP2BU.js"
+    },
+    "chunk-O3LYTSDN": {
+      "file": "chunk-O3LYTSDN.js"
+    },
+    "chunk-AK4TLUUY": {
+      "file": "chunk-AK4TLUUY.js"
+    }
+  }
+}
